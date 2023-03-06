@@ -21,4 +21,4 @@ funacsd2
 
 casd 
 
-add  donut1
+add  donut1 modify donut2
